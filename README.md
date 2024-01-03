@@ -35,3 +35,16 @@ Before you begin, ensure you have the following:
 
    ```bash
    git clone https://github.com/your-username/pico-keylogger.git
+
+2. Pin connections:
+
+- GP2 - LED_1
+- GP3 - LED_2
+- GP4 - LED_3
+- GP5 - LED_4
+- GP6 - LED_5
+- GP7 - LED_6
+- GP8 - LED_7
+- GP9 - LED_8
+
+- LED1 is the LSB and LED8 is the MSB
