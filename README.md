@@ -26,8 +26,8 @@ Before you begin, ensure you have the following:
 
 ## Setup
 
-- Windows(https://www.raspberrypi.com/news/raspberry-pi-pico-windows-installer)
-- Linux(https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html)
+- [Windows](https://www.raspberrypi.com/news/raspberry-pi-pico-windows-installer)
+- [Linux](https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html)
 
 ## Getting Started
 
