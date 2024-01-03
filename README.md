@@ -6,9 +6,8 @@ This project utilizes the Raspberry Pi Pico microcontroller to create a simple k
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
+- [Setup](#Setup)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -24,6 +23,11 @@ Before you begin, ensure you have the following:
 - Raspberry Pi Pico board
 - USB cable
 - [Raspberry Pi Pico C/C++ SDK](https://github.com/raspberrypi/pico-sdk)
+
+##Setup
+
+- Windows(https://www.raspberrypi.com/news/raspberry-pi-pico-windows-installer)
+- Linux(https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html)
 
 ## Getting Started
 
