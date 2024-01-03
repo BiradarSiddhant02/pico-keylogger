@@ -54,3 +54,8 @@ Before you begin, ensure you have the following:
 4. Open device manager and check the port number the pico is connected at
 
 5. Open [PuTTY](https://www.putty.org/) and connect to the port with a baud rate of 115200
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
