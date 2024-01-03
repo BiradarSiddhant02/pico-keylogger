@@ -24,7 +24,7 @@ Before you begin, ensure you have the following:
 - USB cable
 - [Raspberry Pi Pico C/C++ SDK](https://github.com/raspberrypi/pico-sdk)
 
-##Setup
+## Setup
 
 - Windows(https://www.raspberrypi.com/news/raspberry-pi-pico-windows-installer)
 - Linux(https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html)
