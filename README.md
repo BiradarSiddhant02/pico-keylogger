@@ -48,3 +48,9 @@ Before you begin, ensure you have the following:
 - GP9 - LED_8
 
 - LED1 is the LSB and LED8 is the MSB
+
+3. Build the binaries and the .uf2 file
+
+4. Open device manager and check the port number the pico is connected at
+
+5. Open [PuTTY](https://www.putty.org/) and connect to the port with a baud rate of 115200
