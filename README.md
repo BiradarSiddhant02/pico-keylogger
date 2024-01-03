@@ -34,7 +34,7 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pico-keylogger.git
+   git clone https://github.com/BiradarSiddhant02/pico-keylogger.git
 
 2. Pin connections:
 
